@@ -16,6 +16,7 @@ namespace T566254 {
 
         private void Form1_Load(object sender, EventArgs e) {
             dashboardDesigner1.CreateRibbon();
+            dashboardDesigner1.Dashboard.Items.Add(new GeoPointMapDashboardItem());
         }
 
         private void dashboardDesigner1_PopupMenuShowing(object sender, DashboardPopupMenuShowingEventArgs e) {
