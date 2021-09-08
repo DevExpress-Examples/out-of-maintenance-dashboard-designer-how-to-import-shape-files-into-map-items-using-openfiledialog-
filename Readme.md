@@ -30,5 +30,5 @@ This example demonstrates how to customize popup menu to add commands that load 
 - [Dashboard for WinForms - Provide Custom Maps for Map Dashboard Items in code](https://github.com/DevExpress-Examples/win-viewer-map-custom-shape-file)
 - [Dashboard for WinForms - Bind a Choropleth Map Dashboard Item to Data at Runtime](https://github.com/DevExpress-Examples/how-to-bind-a-choropleth-map-dashboard-item-to-data-in-code-e5010)
 - [Dashboard for WinForms - Bind a Pie Map Dashboard Item to Data in code](https://github.com/DevExpress-Examples/how-to-bind-a-pie-map-dashboard-item-to-data-in-code-t119627)
-- [Dashboard for WinForms - Bind a Bubble Map Dashboard Item to Data in code](how-to-bind-a-bubble-map-dashboard-item-to-data-and-customize-its-palette-t119682)
+- [Dashboard for WinForms - Bind a Bubble Map Dashboard Item to Data in code](https://github.com/DevExpress-Examples/how-to-bind-a-bubble-map-dashboard-item-to-data-and-customize-its-palette-t119682)
 - [Dashboard for WinForms - Bind a Geo Point Map Dashboard Item to Data at Runtime](https://github.com/DevExpress-Examples/how-to-bind-a-geo-point-map-dashboard-item-to-data-in-code-e5036)
